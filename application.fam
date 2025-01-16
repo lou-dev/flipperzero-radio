@@ -1,6 +1,6 @@
 App(
     appid="radio",
-    name="Radio",
+    name="Radio-fm",
     apptype=FlipperAppType.EXTERNAL,
     entry_point="radio_app",
     requires=["gui"],
